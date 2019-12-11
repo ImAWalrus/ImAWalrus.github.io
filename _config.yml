@@ -29,8 +29,8 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Computer Science Portfolio
-  Jesse Ibarra
+Under Construction
+Jesse Ibarra
 
 # A list of keywords for your blog
 keywords:              []
@@ -49,8 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Hydejack
-    url:               /hydejack/
+  - title:             Computer Science Portfolio
+    url:               https://github.com/ImAWalrus
   - title:             Hyde
     url:               /hyde/
   - title:             Documentation
